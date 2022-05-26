@@ -137,3 +137,5 @@ Stack trace:
 [26-May-2022 11:00:16 UTC] PHP   6. do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-settings.php:587
 [26-May-2022 11:00:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\plugin.php:474
 [26-May-2022 11:00:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php:331
+[26-May-2022 11:38:26 UTC] PHP Parse error:  syntax error, unexpected 'the_title' (T_STRING) in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-content\themes\intranet\front-page.php on line 32
+[26-May-2022 11:38:42 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' or ',' in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-content\themes\intranet\front-page.php on line 33
