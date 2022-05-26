@@ -88,3 +88,52 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-content\themes\intranet\archive.php on line 10
 [26-May-2022 08:59:20 UTC] PHP Parse error:  syntax error, unexpected '$homepagePosts' (T_VARIABLE) in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-content\themes\intranet\front-page.php on line 46
+[26-May-2022 11:00:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'intranet_post_types' not found or invalid function name in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php on line 307
+[26-May-2022 11:00:09 UTC] PHP Stack trace:
+[26-May-2022 11:00:09 UTC] PHP   1. {main}() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\admin-ajax.php:0
+[26-May-2022 11:00:09 UTC] PHP   2. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\admin-ajax.php:22
+[26-May-2022 11:00:09 UTC] PHP   3. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-load.php:50
+[26-May-2022 11:00:09 UTC] PHP   4. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-config.php:91
+[26-May-2022 11:00:09 UTC] PHP   5. do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-settings.php:587
+[26-May-2022 11:00:09 UTC] PHP   6. WP_Hook->do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\plugin.php:474
+[26-May-2022 11:00:09 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php:331
+[26-May-2022 11:00:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'intranet_post_types' not found or invalid function name in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php on line 307
+[26-May-2022 11:00:10 UTC] PHP Stack trace:
+[26-May-2022 11:00:10 UTC] PHP   1. {main}() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\edit.php:0
+[26-May-2022 11:00:10 UTC] PHP   2. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\edit.php:10
+[26-May-2022 11:00:10 UTC] PHP   3. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\admin.php:34
+[26-May-2022 11:00:10 UTC] PHP   4. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-load.php:50
+[26-May-2022 11:00:10 UTC] PHP   5. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-config.php:91
+[26-May-2022 11:00:10 UTC] PHP   6. do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-settings.php:587
+[26-May-2022 11:00:10 UTC] PHP   7. WP_Hook->do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\plugin.php:474
+[26-May-2022 11:00:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php:331
+[26-May-2022 11:00:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'intranet_post_types' not found or invalid function name in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php on line 307
+[26-May-2022 11:00:11 UTC] PHP Stack trace:
+[26-May-2022 11:00:11 UTC] PHP   1. {main}() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\index.php:0
+[26-May-2022 11:00:11 UTC] PHP   2. require() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\index.php:17
+[26-May-2022 11:00:11 UTC] PHP   3. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-blog-header.php:13
+[26-May-2022 11:00:11 UTC] PHP   4. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-load.php:50
+[26-May-2022 11:00:11 UTC] PHP   5. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-config.php:91
+[26-May-2022 11:00:11 UTC] PHP   6. do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-settings.php:587
+[26-May-2022 11:00:11 UTC] PHP   7. WP_Hook->do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\plugin.php:474
+[26-May-2022 11:00:11 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php:331
+[26-May-2022 11:00:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'intranet_post_types' not found or invalid function name in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php on line 307
+[26-May-2022 11:00:12 UTC] PHP Stack trace:
+[26-May-2022 11:00:12 UTC] PHP   1. {main}() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\post.php:0
+[26-May-2022 11:00:12 UTC] PHP   2. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\post.php:12
+[26-May-2022 11:00:12 UTC] PHP   3. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-admin\admin.php:34
+[26-May-2022 11:00:12 UTC] PHP   4. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-load.php:50
+[26-May-2022 11:00:12 UTC] PHP   5. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-config.php:91
+[26-May-2022 11:00:12 UTC] PHP   6. do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-settings.php:587
+[26-May-2022 11:00:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\plugin.php:474
+[26-May-2022 11:00:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php:331
+[26-May-2022 11:00:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'intranet_post_types' not found or invalid function name in C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php on line 307
+[26-May-2022 11:00:16 UTC] PHP Stack trace:
+[26-May-2022 11:00:16 UTC] PHP   1. {main}() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\index.php:0
+[26-May-2022 11:00:16 UTC] PHP   2. require() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\index.php:17
+[26-May-2022 11:00:16 UTC] PHP   3. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-blog-header.php:13
+[26-May-2022 11:00:16 UTC] PHP   4. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-load.php:50
+[26-May-2022 11:00:16 UTC] PHP   5. require_once() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-config.php:91
+[26-May-2022 11:00:16 UTC] PHP   6. do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-settings.php:587
+[26-May-2022 11:00:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\plugin.php:474
+[26-May-2022 11:00:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\ivor.szaniszlo\Local Sites\intranet\app\public\wp-includes\class-wp-hook.php:331
