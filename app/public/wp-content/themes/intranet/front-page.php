@@ -30,7 +30,6 @@
                   'value' => $today,
                   'type' => 'numeric'
                 )
-
               )
             )); 
 
